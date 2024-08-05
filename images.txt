@@ -1,2 +1,2 @@
 #
-infiniflow/ragflow:dev
+kicbase:v0.0.44
