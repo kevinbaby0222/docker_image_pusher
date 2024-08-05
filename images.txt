@@ -1,2 +1,2 @@
 #
-anjone/kicbase
+index.docker.io/kicbase/stable:v0.0.44
