@@ -1,2 +1,3 @@
-#
-index.docker.io/kicbase/stable:v0.0.44
+bytebase/bytebase:1.14.0
+bytebase/sample-database:mysql-employee-small
+bytebase/sample-database:mysql-employee-small
