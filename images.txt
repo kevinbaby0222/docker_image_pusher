@@ -1,1 +1,2 @@
 nvcr.io/nvidia/tensorrt:24.05-py3
+nvcr.io/nvidia/tritonserver:23.10-trtllm-python-py3
