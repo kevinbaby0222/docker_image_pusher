@@ -1,3 +1,1 @@
-bytebase/bytebase:1.14.0
-bytebase/sample-database:mysql-employee-small
-bytebase/sample-database:mysql-employee-small
+nvcr.io/nvidia/tensorrt:24.05-py3
