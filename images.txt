@@ -1,1 +1,1 @@
-ollama/ollama
+continuumio/anaconda3
