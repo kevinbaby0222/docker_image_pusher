@@ -1,1 +1,1 @@
-nvcr.io/nvidia/cuda:12.4.0-devel-centos7
+nvcr.io/nvidia/pytorch:22.03-py3
